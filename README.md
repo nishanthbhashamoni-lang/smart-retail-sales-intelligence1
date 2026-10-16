@@ -2,7 +2,7 @@
 
 A retail data analysis project built using Python and NumPy to explore transaction data, calculate revenue, identify top-selling products, and compare sales across countries.
 
-## Project Objectivee
+## Project Objectives
 
 - Load and prepare retail transaction data.
 - Apply NumPy arrays and Boolean indexing.
